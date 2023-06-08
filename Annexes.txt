@@ -8,5 +8,8 @@ Save ScreenShot:
 https://ask.godotengine.org/37846/how-to-save-screenshots
 
 Generate a Scene: 
+    Youtube:
+        - Create Images from Viewport Content in Godot: https://www.youtube.com/watch?v=2qP31XJiCq4
+
     Reddit: 
         - Random Scene Generator Question? : https://www.reddit.com/r/godot/comments/ueuomd/random_scene_generator_question/
