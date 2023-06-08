@@ -1,0 +1,12 @@
+To Read: 
+    Godot  Doc:
+       intor =>  https://docs.godotengine.org/en/stable/about/introduction.html
+        https://docs.godotengine.org/en/stable/classes/class_randomnumbergenerator.html
+
+
+Save ScreenShot: 
+https://ask.godotengine.org/37846/how-to-save-screenshots
+
+Generate a Scene: 
+    Reddit: 
+        - Random Scene Generator Question? : https://www.reddit.com/r/godot/comments/ueuomd/random_scene_generator_question/
